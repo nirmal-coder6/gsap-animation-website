@@ -58,7 +58,7 @@ In this course, You’ll learn how to:
 
 ```bash
 # 1. Clone the repo
-git clone [https://github.com/FullStackEmpire/gsap-awwwards-website.git](https://github.com/FullStackEmpire/gsap-awwwards-website.git)
+git clone https://github.com/nirmal-coder6/gsap-animation-website.git
 
 # 2. Install dependencies
 npm install
@@ -467,12 +467,12 @@ export { flavorlists, nutrientLists, cards };
 
 ## Assets
 
-- 🎥 Videos: [`/public/videos`](https://github.com/Fullstack-Empire/GSAP-Awwwards-Website/tree/main/public/videos)
-- 📚 Fonts: [`/public/fonts`](https://github.com/Fullstack-Empire/GSAP-Awwwards-Website/tree/main/public/fonts)
-- 🖼️ Images: [`/public/images`](https://github.com/Fullstack-Empire/GSAP-Awwwards-Website/tree/main/public/images)
+- 🎥 Videos: [`/public/videos`](https://github.com/nirmal-coder6/gsap-animation-website/tree/main/public/videos)
+- 📚 Fonts: [`/public/fonts`](https://github.com/nirmal-coder6/gsap-animation-website/tree/main/public/fonts)
+- 🖼️ Images: [`/public/images`](https://github.com/nirmal-coder6/gsap-animation-website/tree/main/public/images)
 
 ## Community
 
 Join the community and connect with other developers!
 
-[![Discord](https://img.shields.io/discord/your-server-id?label=Join%20Discord&logo=discord&style=for-the-badge&color=5865F2)](https://discord.gg/cbtfr4BHF9)
+[![Discord](https://img.shields.io/discord/your-server-id?label=Join%20Discord&logo=discord&style=for-the-badge&color=5865F2)](https://discord.gg/uqXR3BrQ7Q)
